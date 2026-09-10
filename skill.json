@@ -1,0 +1,14 @@
+{
+  "name": "genpark-paillier-partially-homomorphic-encryption-skill",
+  "version": "1.0.0",
+  "description": "Paillier additive homomorphic cryptosystem supporting addition of ciphertexts and scalar multiplication of encrypted values.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "paillier-encryption",
+    "homomorphic-encryption",
+    "privacy-preserving",
+    "secure-computation",
+    "cryptography"
+  ]
+}
